@@ -1,0 +1,10 @@
+{ 
+   "resourceType":"Patient",
+   "name": [ { 
+	"use":"official",  
+	"text":"安妮亞" } ], 
+   "gender":"female",
+   "birthDate":"2012-10-02",
+   "managingOrganization": { 
+	"reference": "Organization/44767420" }
+ }
